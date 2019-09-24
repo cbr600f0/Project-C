@@ -12,6 +12,7 @@ namespace Project_C
 {
     public partial class Form1 : Form
     {
+        public string DikkeMark { get; set; }
         public Form1()
         {
             InitializeComponent();
