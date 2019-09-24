@@ -12,6 +12,7 @@ namespace Project_C
 {
     public partial class Form1 : Form
     {
+        public string mark;
         public Form1()
         {
             InitializeComponent();
